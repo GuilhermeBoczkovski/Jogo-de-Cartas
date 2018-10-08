@@ -1,0 +1,2 @@
+# Jogo-de-Cartas
+Um jogo de cartas possui em cada carta o tipo de um personagem (Água, Terra, Ar, Fogo) e as suas forças: energia, habilidade, velocidade e resistência, que variam de 0 a 100. Em uma jogada participam dois jogadores. Cada jogador possui cinco cartas na mão. Em cada jogada duas cartas são colocadas por vez na mesa, sendo uma de cada jogador e ganha e leva a carta do adversário a carta que tiver maior valor total, somando-se todas as forças. Um jogador ganha quando o outro não tiver mais cartas.
